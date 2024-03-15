@@ -6,7 +6,7 @@
 Hey, it's me, Abdallah Ellethy. I'm a computer science graduate from [Cairo University](https://cu.edu.eg/Home), currently working at [Ivy](https://unify.ai). A passionate programmer who wants to explore new grounds and ideas.
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Abdallah-Mohamedo-Eid-Hassan20190330&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Abdallah-Mohamedo-Eid-Hassan20190330&show_icons=true&include_all_commits=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdallah-Mohamedo-Eid-Hassan20190330&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&size_weight=0.5&count_weight=0.5" />
